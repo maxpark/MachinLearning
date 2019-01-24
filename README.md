@@ -16,7 +16,9 @@ Linked sites for Machine Learning
 
 
 
-Tech. Documents
+
+
+[ Tech. Documents ]
 
 1. Optimizing FPGA-based Accelerator Design for Deep Convolutional Neural Networks.
    http://cadlab.cs.ucla.edu/~cong/slides/fpga2015_chen.pdf
@@ -24,7 +26,9 @@ Tech. Documents
 2. FP-BNN: Binarized neural network on FPGA.
    http://www.doc.ic.ac.uk/~wl/papers/17/neuro17sl0.pdf
 
-
+3. FPGA Implementation of Convolutional Neural Networks with Fixed-Point Calculations.
+   https://arxiv.org/pdf/1808.09945.pdf
+   
 
 
 

@@ -1,4 +1,4 @@
-# MachinLearning
+# MachinLearning w/ FPGA
 Linked sites for Machine Learning
 
 
@@ -15,6 +15,16 @@ Linked sites for Machine Learning
     https://github.com/hirayaku/DAC2018-TGIIF
 
 
-2. 
+
+Tech. Documents
+
+1. Optimizing FPGA-based Accelerator Design for Deep Convolutional Neural Networks.
+   http://cadlab.cs.ucla.edu/~cong/slides/fpga2015_chen.pdf
+
+2. FP-BNN: Binarized neural network on FPGA.
+   http://www.doc.ic.ac.uk/~wl/papers/17/neuro17sl0.pdf
+
+
+
 
 

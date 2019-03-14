@@ -1,4 +1,4 @@
-# MachinLearning w/ FPGA
+# Machine Learning w/ FPGA
 Linked sites for Machine Learning
 
 
